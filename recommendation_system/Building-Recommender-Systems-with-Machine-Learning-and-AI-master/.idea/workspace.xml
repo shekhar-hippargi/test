@@ -1,0 +1,236 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a2ac853-76af-4380-a101-ab34a6463825" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Building-Recommender-Systems-with-Machine-Learning-and-AI-master" />
+  </component>
+  <component name="ProjectId" id="1V9PF4L1pVGmBnYvBqGoBJsSNZk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../RecommendationEngine/venv/bin" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.GettingStarted">
+    <configuration name="GettingStarted" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Building-Recommender-Systems-with-Machine-Learning-and-AI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/GettingStart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GettingStart/GettingStarted.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecommenderMetrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Building-Recommender-Systems-with-Machine-Learning-and-AI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MatrixFactorization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatrixFactorization/RecommenderMetrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="SVDBakeOff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Building-Recommender-Systems-with-Machine-Learning-and-AI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MatrixFactorization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MatrixFactorization/SVDBakeOff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestMetrics" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Building-Recommender-Systems-with-Machine-Learning-and-AI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Evaluating" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Evaluating/TestMetrics.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Building-Recommender-Systems-with-Machine-Learning-and-AI-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../RecommendationEngine/MovieRecommendationTFIDF" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../RecommendationEngine/MovieRecommendationTFIDF/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.GettingStarted" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.TestMetrics" />
+        <item itemvalue="Python.SVDBakeOff" />
+        <item itemvalue="Python.RecommenderMetrics" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a2ac853-76af-4380-a101-ab34a6463825" name="Default Changelist" comment="" />
+      <created>1576662231407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576662231407</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog" timestamp="1576678106230">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog/67.27.1533.873@67.27.1533.873" timestamp="1576678106230" />
+    <state x="606" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576675324652">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="606" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1576675324652" />
+    <state width="1510" height="280" key="GridCell.Tab.0.bottom" timestamp="1577203553552">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="280" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1577203553552" />
+    <state width="1510" height="280" key="GridCell.Tab.0.center" timestamp="1577203553551">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="280" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1577203553551" />
+    <state width="1510" height="280" key="GridCell.Tab.0.left" timestamp="1577203553551">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="280" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1577203553551" />
+    <state width="1510" height="280" key="GridCell.Tab.0.right" timestamp="1577203553551">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="280" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1577203553551" />
+    <state width="1510" height="272" key="GridCell.Tab.1.bottom" timestamp="1577203553548">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1577203553548" />
+    <state width="1510" height="272" key="GridCell.Tab.1.center" timestamp="1577203553547">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1577203553547" />
+    <state width="1510" height="272" key="GridCell.Tab.1.left" timestamp="1577203553547">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1577203553547" />
+    <state width="1510" height="272" key="GridCell.Tab.1.right" timestamp="1577203553547">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1577203553547" />
+    <state x="322" y="97" key="SettingsEditor" timestamp="1576750006433">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1576750006433" />
+    <state width="766" height="437" key="XDebugger.FullValuePopup" timestamp="1577196609224">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="766" height="437" key="XDebugger.FullValuePopup/67.27.1533.873@67.27.1533.873" timestamp="1577196609224" />
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577193368613">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1577193368613" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1577251008900">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1577251008900" />
+    <state x="480" y="198" width="707" height="538" key="find.popup" timestamp="1577196311611">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="480" y="198" width="707" height="538" key="find.popup/67.27.1533.873@67.27.1533.873" timestamp="1577196311611" />
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup" timestamp="1576731173757">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="496" y="212" width="672" height="678" key="search.everywhere.popup/67.27.1533.873@67.27.1533.873" timestamp="1576731173757" />
+  </component>
+</project>

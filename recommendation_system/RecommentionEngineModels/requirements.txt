@@ -1,0 +1,4 @@
+# torch
+pandas
+# fastai==0.7.0
+tensorflow

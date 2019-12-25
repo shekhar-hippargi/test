@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6bcf1e5c-04db-4c0e-b4d2-3ab8f9921934" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1UjNCWK6pXijR3b4BPkvEroQbgw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="movie_recomm_deploy_heroku-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6bcf1e5c-04db-4c0e-b4d2-3ab8f9921934" name="Default Changelist" comment="" />
+      <created>1575865916134</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575865916134</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="501" y="150" width="424" height="484" key="FileChooserDialogImpl" timestamp="1576135566347">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="501" y="150" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1576135566347" />
+    <state width="1510" height="219" key="GridCell.Tab.0.bottom" timestamp="1577191320459">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1577191320459" />
+    <state width="1510" height="219" key="GridCell.Tab.0.center" timestamp="1577191320458">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1577191320458" />
+    <state width="1510" height="219" key="GridCell.Tab.0.left" timestamp="1577191320458">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1577191320458" />
+    <state width="1510" height="219" key="GridCell.Tab.0.right" timestamp="1577191320459">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="219" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1577191320459" />
+    <state width="1510" height="272" key="GridCell.Tab.1.bottom" timestamp="1576133121724">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1576133121724" />
+    <state width="1510" height="272" key="GridCell.Tab.1.center" timestamp="1576133121724">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1576133121724" />
+    <state width="1510" height="272" key="GridCell.Tab.1.left" timestamp="1576133121724">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1576133121724" />
+    <state width="1510" height="272" key="GridCell.Tab.1.right" timestamp="1576133121724">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1576133121724" />
+    <state x="317" y="70" key="SettingsEditor" timestamp="1576130609602">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="317" y="70" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1576130609602" />
+    <state width="766" height="437" key="XDebugger.FullValuePopup" timestamp="1576133090228">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="766" height="437" key="XDebugger.FullValuePopup/67.27.1533.873@67.27.1533.873" timestamp="1576133090228" />
+    <state x="167" y="127" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577078809643">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="127" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1577078809643" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1577190988216">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1577190988216" />
+    <state x="480" y="193" width="707" height="538" key="find.popup" timestamp="1577077755094">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="480" y="193" width="707" height="538" key="find.popup/67.27.1533.873@67.27.1533.873" timestamp="1577077755094" />
+  </component>
+</project>

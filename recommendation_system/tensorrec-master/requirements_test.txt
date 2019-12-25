@@ -1,0 +1,10 @@
+flake8==3.3.0
+nose==1.3.7
+nose-cprof==0.2.1
+nose-timer==0.7.1
+nose-parameterized==0.6.0
+
+# For datasets
+lightfm==1.13
+requests==2.20.0
+scikit-learn==0.19.1

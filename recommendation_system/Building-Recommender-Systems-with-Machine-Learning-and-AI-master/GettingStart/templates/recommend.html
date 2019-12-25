@@ -1,0 +1,26 @@
+{% extends 'base.html' %}
+{% block content %}
+
+  {% if t=='s' %}
+  <div class="shadow p-3 mb-5 bg-white rounded">
+    <h3 style="color:rgb(0, 102, 255)">Sorry! This user is not in our database.</h3>
+    <h3 style="color:rgb(0, 102, 255)">Please check if you entered user id correct.</h3>
+    <h3 style="color:rgb(0, 102, 255)">Or try with another user id.</h3>
+  </div>
+
+  {% else %}
+  <div class="shadow p-3 mb-5 bg-white rounded">
+    <h3 style="color:rgb(0, 102, 255)">Here are some more like this</h3>
+  </div>
+
+<!--    <ul class="list-group list-group-flush">-->
+<!--      {% for m in r %}-->
+<!--        <li class="list-group-item" style="color:rgb(0, 179, 0)"><strong>{{r}}</strong></li>-->
+<!--      {% endfor %}-->
+<!--    </ul>-->
+<!--  {% endif %}-->
+
+  <div class="shadow p-3 mb-5 bg-white rounded">
+    <h3 style="color:rgb(0, 102, 255)"><strong>{{r}}</strong></h3>
+  </div>
+{% endblock %}
