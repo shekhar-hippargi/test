@@ -1,5 +1,5 @@
 import pandas as pd
-from surprise import NormalPredictor
+from surprise import NormalPredictor, KNNBasic
 from surprise import Dataset
 from surprise import Reader
 from surprise.model_selection import cross_validate
@@ -17,4 +17,5 @@ reader = Reader(rating_scale=(1, 5))
 data = Dataset.load_from_df(df[['userID', 'itemID', 'rating']], reader)
 
 # We can now use this dataset as we please, e.g. calling cross_validate
-cross_validate(NormalPredictor(), data, cv=2)
+cross_validate(NormalPredictor(), data, cv=2, verbose=True)
+# cross_validate(KNNBasic(), data, cv=2, verbose=True)

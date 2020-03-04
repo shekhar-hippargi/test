@@ -2,7 +2,7 @@ import glob
 import os
 
 import imageio
-imageio.plugins.ffmpeg.download()  # noqa
+# imageio.plugins.ffmpeg.download()  # noqa
 
 import matplotlib.pyplot as plt
 import moviepy.editor as mpy

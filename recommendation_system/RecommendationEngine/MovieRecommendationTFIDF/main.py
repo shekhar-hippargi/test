@@ -28,7 +28,6 @@ class Recommendation:
 
         # Compute the cosine similarity matrix
         self.cosine_sim = cosine_similarity(self.tfidf_matrix, self.tfidf_matrix)
-
         self.indices = pd.Series(self.df1.index, index=self.df1['title']).drop_duplicates()
 
     # Function that takes in movie title as input and outputs most similar movies

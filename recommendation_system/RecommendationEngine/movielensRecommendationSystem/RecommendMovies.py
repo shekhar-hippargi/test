@@ -1,4 +1,4 @@
-from movielensRecommendationSystem.MovieLens import MovieLens
+from RecommendationEngine.movielensRecommendationSystem.MovieLens import MovieLens
 from surprise import SVD
 
 
@@ -27,9 +27,9 @@ userRatings = ml.getUserRatings(user)
 loved = []
 hated = []
 for ratings in userRatings:
-    if (float(ratings[1]) > 4.0):
+    if (float(ratings[1]) >= 4.0):
         loved.append(ratings)
-    if (float(ratings[1]) < 3.0):
+    if (float(ratings[1]) < 4.0):
         hated.append(ratings)
 
 print("\nUser ", user, " loved these movies:")
@@ -48,7 +48,6 @@ algo.fit(trainSet)
 print("Computing recommendations...")
 testSet = BuildAntiTestSetForUser(user, trainSet)
 predictions = algo.test(testSet)
-
 recommendations = []
 
 print ("\nWe recommend:")
