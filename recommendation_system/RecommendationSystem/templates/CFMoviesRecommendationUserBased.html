@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Collaborative Filtering User Based- Movie Recommendations</title>
+</head>
+<body>
+    <form method="post" action="http://127.0.0.1:5000/CFUserBased" enctype = "multipart/form-data">
+        <label>Upload file of movies:</label>&nbsp;&nbsp;
+        <input type = "file" id = "movies" name = "movies" /><br><br>
+        <label>Upload file of ratings:</label>&nbsp;&nbsp;
+        <input type = "file" id = "ratings" name = "ratings" /><br><br>
+
+        <h2>Enter User Id :</h2><input type = "text" id = "userId" name = "userId"/><br><br>
+        <input id="submit" type="submit" name="submit" value="Submit" />
+    </form>
+</body>
+</html>

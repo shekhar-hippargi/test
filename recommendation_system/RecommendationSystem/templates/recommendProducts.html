@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+{% block content %}
+
+  {% if t=='s' %}
+  <div class="shadow p-3 mb-5 bg-white rounded">
+    <h3 style="color:rgb(0, 102, 255)">Sorry! This product id is not in our database.</h3>
+    <h3 style="color:rgb(0, 102, 255)">Please check if your id is a number</h3>
+    <h3 style="color:rgb(0, 102, 255)">Or <b>product-id</b> is in between <b>1-500</b></h3>
+  </div>
+
+  {% else %}
+  <div class="shadow p-3 mb-5 bg-white rounded">
+    <h4 style="color:rgb(0, 102, 255)">{{productName|capitalize}}</h4>
+  </div>
+
+    <ul class="list-group list-group-flush">
+      {% for m in r %}
+        <li class="list-group-item" style="color:rgb(0, 179, 0)"><strong>{{m|capitalize}}</strong></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+{% endblock %}

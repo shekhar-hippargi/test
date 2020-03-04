@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="210204a3-813d-4499-a0ce-1d1ddfb834a9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VUNhAllOdeYx6YdJzRSdbdE4y4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/ApplicationFolder" />
+      <recent name="$PROJECT_DIR$/ContentBased/ProductsRecommendation" />
+      <recent name="$PROJECT_DIR$/template" />
+      <recent name="$PROJECT_DIR$/ContentBased/ProductsRecommendation/scripts" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates" />
+      <recent name="$PROJECT_DIR$/flask" />
+      <recent name="$PROJECT_DIR$/DeepLearning" />
+      <recent name="$PROJECT_DIR$/UsingTensorflow" />
+      <recent name="$PROJECT_DIR$/ContentBased/MovieLensData" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="AutoRecBakeOff" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RecommendationSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DeepLearning" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DeepLearning/AutoRecBakeOff.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ContentRecommendationsRun" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RecommendationSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContentBased/MovieLensData" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContentBased/MovieLensData/ContentRecommendationsRun.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RecommendMovies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RecommendationSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ContentBased/MovieRecommendationTFIDF" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ContentBased/MovieRecommendationTFIDF/RecommendMovies.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="RunCF" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RecommendationSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CollaborativeFiltering/scripts" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CollaborativeFiltering/scripts/RunCF.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="RecommendationSystem" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AutoRecBakeOff" />
+      <item itemvalue="Python.ContentRecommendationsRun" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.RecommendMovies" />
+      <item itemvalue="Python.RunCF" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.RunCF" />
+        <item itemvalue="Python.RecommendMovies" />
+        <item itemvalue="Python.AutoRecBakeOff" />
+        <item itemvalue="Python.ContentRecommendationsRun" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="StructureViewFactory">
+    <option name="ACTIVE_ACTIONS" value=",SHOW_INHERITED" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="210204a3-813d-4499-a0ce-1d1ddfb834a9" name="Default Changelist" comment="" />
+      <created>1577303829044</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577303829044</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577702241571">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1577702241571" />
+    <state x="470" y="27" width="706" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1577334458097">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="470" y="27" width="706" height="873" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/67.27.1533.873@67.27.1533.873" timestamp="1577334458097" />
+    <state x="507" y="82" width="642" height="761" key="#main" timestamp="1577771708968">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="507" y="82" width="642" height="761" key="#main/67.27.1533.873@67.27.1533.873" timestamp="1577771708968" />
+    <state x="898" y="27" key="#xdebugger.evaluate" timestamp="1577376289624">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="898" y="27" key="#xdebugger.evaluate/67.27.1533.873@67.27.1533.873" timestamp="1577376289624" />
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog" timestamp="1577340208400">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="DiffContextDialog/67.27.1533.873@67.27.1533.873" timestamp="1577340208400" />
+    <state x="603" y="354" width="424" height="484" key="FileChooserDialogImpl" timestamp="1582008142357">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="603" y="354" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1582008142357" />
+    <state width="1549" height="217" key="GridCell.Tab.0.bottom" timestamp="1583301028239">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1549" height="217" key="GridCell.Tab.0.bottom/51.27.1549.873/1600.0.1440.900@51.27.1549.873" timestamp="1583301028239" />
+    <state width="1526" height="210" key="GridCell.Tab.0.bottom/51.27.1549.873@51.27.1549.873" timestamp="1583131540588" />
+    <state width="1510" height="210" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1582020082975" />
+    <state width="1549" height="217" key="GridCell.Tab.0.center" timestamp="1583301028239">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1549" height="217" key="GridCell.Tab.0.center/51.27.1549.873/1600.0.1440.900@51.27.1549.873" timestamp="1583301028239" />
+    <state width="1526" height="210" key="GridCell.Tab.0.center/51.27.1549.873@51.27.1549.873" timestamp="1583131540588" />
+    <state width="1510" height="210" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1582020082974" />
+    <state width="1549" height="217" key="GridCell.Tab.0.left" timestamp="1583301028238">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1549" height="217" key="GridCell.Tab.0.left/51.27.1549.873/1600.0.1440.900@51.27.1549.873" timestamp="1583301028238" />
+    <state width="1526" height="210" key="GridCell.Tab.0.left/51.27.1549.873@51.27.1549.873" timestamp="1583131540588" />
+    <state width="1510" height="210" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1582020082974" />
+    <state width="1549" height="217" key="GridCell.Tab.0.right" timestamp="1583301028239">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state width="1549" height="217" key="GridCell.Tab.0.right/51.27.1549.873/1600.0.1440.900@51.27.1549.873" timestamp="1583301028239" />
+    <state width="1526" height="210" key="GridCell.Tab.0.right/51.27.1549.873@51.27.1549.873" timestamp="1583131540588" />
+    <state width="1510" height="210" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1582020082975" />
+    <state width="1510" height="272" key="GridCell.Tab.1.bottom" timestamp="1577778045926">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1577778045926" />
+    <state width="1510" height="272" key="GridCell.Tab.1.center" timestamp="1577778045926">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1577778045926" />
+    <state width="1510" height="272" key="GridCell.Tab.1.left" timestamp="1577778045926">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1577778045926" />
+    <state width="1510" height="272" key="GridCell.Tab.1.right" timestamp="1577778045926">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="272" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1577778045926" />
+    <state x="322" y="97" key="SettingsEditor" timestamp="1582008172989">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="322" y="97" key="SettingsEditor/67.27.1533.873@67.27.1533.873" timestamp="1582008172989" />
+    <state width="766" height="437" key="XDebugger.FullValuePopup" timestamp="1577356603022">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="766" height="437" key="XDebugger.FullValuePopup/67.27.1533.873@67.27.1533.873" timestamp="1577356603022" />
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1577693244243">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1577693244243" />
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog" timestamp="1577939398673">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="489" y="290" key="com.intellij.ide.util.TipDialog/67.27.1533.873@67.27.1533.873" timestamp="1577939398673" />
+    <state x="469" y="193" width="712" height="578" key="find.popup" timestamp="1583299656457">
+      <screen x="51" y="27" width="1549" height="873" />
+    </state>
+    <state x="469" y="193" width="712" height="578" key="find.popup/51.27.1549.873/1600.0.1440.900@51.27.1549.873" timestamp="1583299656457" />
+    <state x="481" y="193" width="704" height="578" key="find.popup/67.27.1533.873@67.27.1533.873" timestamp="1582009672910" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../venv/lib/python3.6/site-packages/surprise/dataset.py</url>
+          <line>256</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../venv/lib/python3.6/site-packages/surprise/dataset.py</url>
+          <line>255</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../venv/lib/python3.6/site-packages/surprise/dataset.py</url>
+          <line>254</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Recommendation System</title>
+</head>
+<body>
+<form method="post" enctype = "multipart/form-data">
+<!--    <input type = "file" name = "file" /><br>-->
+    <select id="algoname" name="algoname">
+        <option name="ContentBasedMovieRecommendation" value="ContentBasedMovieRecommendation">Content Based Model - Movie Recommendation</option>
+        <option name="ContentBasedProductRecommendation" value="ContentBasedProductRecommendation">Content Based Model - Product Recommendation</option>
+        <option name="CollaborativeItemBased" value="CollaborativeItemBased">Collaborative Filtering Model : Item-Item Based</option>
+        <option name="CollaborativeUserBased" value="CollaborativeUserBased">Collaborative Filtering Model : User-Item Based</option>
+        <option name="DeepLearning" value="DeepLearning">DeepLearning Model</option>
+    </select><br><br>
+    <input id="submit" type="submit" name="submit" value="Submit" />
+</form>
+</body>
+</html>
