@@ -77,11 +77,6 @@ App will start running on the local server [http://127.0.0.1:5000/](http://127.0
 
 ![alt text](images/app_running.png)
 
-## Contributing
-
-Mail me at zishansami102@gmail.com if you want to contribute in this project <br/>
-My homepage - [zishansami102.github.io](https://zishansami102.github.io/)
-
 ## Acknowledgments
 
 * [CS231n.stanford.edu](http://cs231n.stanford.edu/) - Most of the theorotical concepts are taken from here
