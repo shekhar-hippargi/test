@@ -46,12 +46,7 @@ Followings are also required if working/testing on the app.py
 
 ### Installing
 
-* Clone the repository
-
-```
-git clone https://github.com/zishansami102/CNN-from-Scratch
-```
-
+* Clone this repository
 * Downlad the dataset and copy that to it's corresponding folder(CIFAR-10/MNIST).
 * Move into the required directory (/CNN-from-Scratch/MNIST or /CNN-from-Scratch/CIFAR-10) and then run the following command to start training model
 
